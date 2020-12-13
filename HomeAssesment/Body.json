@@ -1,0 +1,31 @@
+{
+ 
+  "addressInfo": [
+    {
+      "sector": "E",
+      "pincode": "180001",
+      "society": "Sainik Colony",
+      "city": "Jammu",
+      "hno": "480",
+      "streetName": "Near Babbar chowk"
+    },
+    {
+      "sector": "A",
+      "pincode": "180001",
+      "society": "Channi",
+      "city": "Jammu",
+      "hno": "111",
+      "streetName": "Near EyeCare"
+    }
+  ],
+  "mark": {
+    "division": "FirstDiv",
+    "subject": "Non-Med",
+    "percentage": "70"
+  },
+  "firstname": "Rishabh",
+  "dept": "IT",
+  "id": "{{id}}",
+  "lastname": "Jamwal"
+ 
+}
